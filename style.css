@@ -1,0 +1,3 @@
+body{ text-align:center;
+    height:2000px; 
+    background-image: linear-gradient(#e1bee7,#90caf9); } ul{ list-style-type:none; overflow:hidden; background-color:#66D1D1; } li{ float:left; } li a{ display:blocok; color:white; text-align:center; padding:15px 16px; } li a:hover:not(.active){ background-color:#008080; } .active{ background-color:#5f66a1; } #about{ background:linear-gradient(#e1bee7,#90caf9); } #myfav{ background-image: linear-gradient(#e1bee7,#90caf9); } img{ height:%; width:20%; } h3{ font-style:bold; font-size:19px; background-image: linear-gradient(#e62e59,#ff8aa5); } hr{ width:10000px; height:10px; background-image: linear-gradient(); } div { background: linear-gradient(to bottom, #ffcc99 0%, #3333ff 100%); }
